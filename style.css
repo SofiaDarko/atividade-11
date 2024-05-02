@@ -6,7 +6,8 @@
 }
 
 .categorias img{
-    display: block;
+    justify-content: space-evenly;
+    flex-wrap: nowrap;
 }
 
 .titulo{
